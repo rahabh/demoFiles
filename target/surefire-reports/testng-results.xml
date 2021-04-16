@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-17T03:19:45 IST" name="Surefire suite" finished-at="2021-04-17T03:19:45 IST" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2021-04-17T03:19:45 IST" name="Surefire test" finished-at="2021-04-17T03:19:45 IST" duration-ms="51">
+      <class name="demoCalc.DemoCalculatore">
+        <test-method signature="sub()[pri:0, instance:demoCalc.DemoCalculatore@5bda8e08]" started-at="2021-04-17T03:19:45 IST" name="sub" finished-at="2021-04-17T03:19:45 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method signature="sum()[pri:0, instance:demoCalc.DemoCalculatore@5bda8e08]" started-at="2021-04-17T03:19:45 IST" name="sum" finished-at="2021-04-17T03:19:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- demoCalc.DemoCalculatore -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
