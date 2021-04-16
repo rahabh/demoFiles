@@ -8,7 +8,7 @@ public class DemoCalculatore {
 	public void sum() {
 		System.out.println("sum : " );
 		int a =10;
-		int b = 20;
+		int b = 30;
 		int sums = a +b;
 		System.out.println("sum : " + sums);
 		Assert.assertEquals(30, sums);
